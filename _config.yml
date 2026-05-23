@@ -1,0 +1,7 @@
+title: Welcome to Braintree Support
+description:  Support and Documentation for Projects and Professional Services for Microsoft Dynamics 365 Business Central
+theme: jekyll-theme-cayman
+show_downloads: true
+github:
+  is_project_page: false
+logo: /images/logo.png
