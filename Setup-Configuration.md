@@ -21,14 +21,15 @@ You can amend these if required.
 
 ## Definitions
 |**Term** | **Definition**|
-|-|-|
+|--|--|
 |Measurements|Defines key measurements taken as part of maintenance and inspections. |
 |Maintenance Actions|Defines actions that are used in maintenance activities, for example Check, Top up, Adjust|
 |Maintenance Group|Defines a group for which common maintenance activities apply, for example Passenger Vehicles, Motorcycles, Fridges|
-|Maintenance Plan Types||
-|Maintenance Plans||
-|Maintenance Order||
+|Maintenance Plan Types|Defines categories of maintenance plans, for example Minor Service, Safety Certification|
+|Maintenance Plans|Defines a set of standard activities and resource requirements for the maintenance of a particular group of assets|
+|Maintenance Order|Defines specific maintenance actions|
 |Checklist||
+|Defect Register ||
 
 # Maintenance Groups
 Maintenance groups are associated with fixed assets that are under maintenance. The group will also determine the types of maintenance that are appropriate for an asset.
