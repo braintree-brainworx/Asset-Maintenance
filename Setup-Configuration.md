@@ -14,10 +14,18 @@ On installation, number series will be created for
 You can amend these if required.
 
 ## Definitions
+things in my app
 
-| Field Name | Source |
-|------------|--------|
-| Field 1 | whatever |
+| **Term** | **Definition** |
+|---|---|
+|Measurements|Defines key measurements taken as part of maintenance and inspections. |
+|Maintenance Actions|Defines actions that are used in maintenance activities, for example Check, Top up, Adjust|
+|Maintenance Group|Defines a group for which common maintenance activities apply, for example Passenger Vehicles, Motorcycles, Fridges|
+|Maintenance Plan Types|Defines categories of maintenance plans, for example Minor Service, Safety Certification|
+|Maintenance Plans|Defines a set of standard activities and resource requirements for the maintenance of a particular group of assets|
+|Maintenance Order|Defines specific maintenance actions|
+|Checklist||
+|Defect Register ||
 
 ## Measurements
 From FA Maintenance Setup, select 'Measurements'.
