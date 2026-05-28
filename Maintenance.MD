@@ -23,12 +23,39 @@ Click on New. The Maintenance Plan Card will open.
 Press Tab to move past the No. field. A plan number will be assigned.
 
 Select a Maintenance Group and a Maintenance Plan Type from the available lists. The descriptions will be updated.
-Next, capture the maintenance lines to record the actions that will be taken as follows:
+
+**Capture the maintenance lines to record the actions that will be taken as follows:**
+The tasks captured on the plan should include all standard or recommended tasks that should be suggested when actioning a maintenance order derived from the plan. The tasks can be amended on the maintenance order.
 
 | **Column** | **Value** |
 |-|-|
-| Component| |
-| Action| |
+|Component|Specify the area of the asset that the action applies to |
+|Action|Select or enter an action, for example 'Check', 'Adjust' |
+|Measurement parameter|Where a quantifiable measurement is being taken, select the measure from the available options|
+|Instruction |The system will generate an instruction from the choices selected. Amend if required.|
+|Optimal value||
+|Tolerance 1||
+|Tolerance 2||
+|Tolerance 3||
+|Comments||
+
+Example:
+![alt text](image-7.png)
+
+**Capture the materials and resources required to carry out the tasks on the maintenance plan:**
+Capture the recommended consumables and spares, resources, or other expenses that will be required to action a maintenance order derived from the maintenance plan. Expenses can be added, removed or changed on the order. Actual consumption will be captured per order.
+
+| **Column** | **Value** |
+|-|-|
+|Expense Type|Select an option from the list - Item, Resource, Vendor, GL Account|
+|No.|A lookup list will be presented, based on the Expense Type selected.|
+|Description|Initially set to the name or description of the entity selected|
+|Quantity||
+|Expected Cost|
+|UOM|Unit of measure code|
+
+Example:
+![alt text](image-8.png)
 
 ## Maintenance Orders
 
