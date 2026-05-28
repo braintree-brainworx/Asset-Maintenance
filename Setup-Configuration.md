@@ -20,8 +20,8 @@ On installation, number series will be created for
 You can amend these if required.
 
 ## Definitions
-|**Term** | **Definition**|
-|--|--|
+| **Term** | **Definition** |
+|---|---|
 |Measurements|Defines key measurements taken as part of maintenance and inspections. |
 |Maintenance Actions|Defines actions that are used in maintenance activities, for example Check, Top up, Adjust|
 |Maintenance Group|Defines a group for which common maintenance activities apply, for example Passenger Vehicles, Motorcycles, Fridges|
