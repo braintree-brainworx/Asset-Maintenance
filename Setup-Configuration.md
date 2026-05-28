@@ -20,7 +20,7 @@ On installation, number series will be created for
 You can amend these if required.
 
 ## Definitions
-things in my app
+Definition of terms and entities used in the app:
 
 | **Term** | **Definition** |
 |---|---|
@@ -59,7 +59,7 @@ Enter a code and description, and select a maintenance category from the availab
 ## Maintenance Groups
 Maintenance groups are used to group a set of fixed assets together, based on common properties. The group can be used to associate typical maintenance activities with specific assets.
 
-Example: 
+*Example*: 
 Motor vehicles can be split by size and fuel type - Passenger Petrol, Passenger Diesel.
 
 From FA Maintenance Setup, select 'Maintenance Groups'.
@@ -71,17 +71,3 @@ From the Maintenance Groups list, add or edit the entries:
 You can associate plan types with maintenance groups. Select 'Maintenance Plan Types' from the Maintenance Groups page.
 
 ![alt text](image-5.png)
-
-
-
-
-| **Term** | **Definition** |
-|---|---|
-|Measurements|Defines key measurements taken as part of maintenance and inspections. |
-|Maintenance Actions|Defines actions that are used in maintenance activities, for example Check, Top up, Adjust|
-|Maintenance Group|Defines a group for which common maintenance activities apply, for example Passenger Vehicles, Motorcycles, Fridges|
-|Maintenance Plan Types|Defines categories of maintenance plans, for example Minor Service, Safety Certification|
-|Maintenance Plans|Defines a set of standard activities and resource requirements for the maintenance of a particular group of assets|
-|Maintenance Order|Defines specific maintenance actions|
-|Checklist||
-|Defect Register ||
