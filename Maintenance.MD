@@ -26,7 +26,7 @@ Select a Maintenance Group and a Maintenance Plan Type from the available lists.
 Next, capture the maintenance lines to record the actions that will be taken as follows:
 
 |**Column**|**Value**|
-|--|--|
+|-|-|
 |Component||
 |Action||
 
