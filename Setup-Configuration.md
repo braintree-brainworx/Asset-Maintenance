@@ -15,8 +15,9 @@ You can amend these if required.
 
 ## Definitions
 
-| Column | Content|
-|----------|----------|
+| Field Name | Source |
+|------------|--------|
+| Field 1 | whatever |
 
 ## Measurements
 From FA Maintenance Setup, select 'Measurements'.
