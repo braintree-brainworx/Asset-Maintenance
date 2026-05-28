@@ -25,10 +25,10 @@ Press Tab to move past the No. field. A plan number will be assigned.
 Select a Maintenance Group and a Maintenance Plan Type from the available lists. The descriptions will be updated.
 Next, capture the maintenance lines to record the actions that will be taken as follows:
 
-|**Column**|**Value**|
+| **Column** | **Value** |
 |-|-|
-|Component||
-|Action||
+| Component| |
+| Action| |
 
 ## Maintenance Orders
 
