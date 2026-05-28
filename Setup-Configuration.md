@@ -52,6 +52,8 @@ From the Maintenance Plan Types list, add or edit the entries:
 
 ![alt text](image-3.png)
 
+Enter a code and description, and select a maintenance category from the available list.
+
 ## Maintenance Groups
 Maintenance groups are used to group a set of fixed assets together, based on common properties. The group can be used to associate typical maintenance activities with specific assets.
 
@@ -66,5 +68,4 @@ From the Maintenance Groups list, add or edit the entries:
 ### Maintenance groups - Plan types
 You can associate plan types with maintenance groups. Select 'Maintenance Plan Types' from the Maintenance Groups page.
 
-![alt text](image-4.png)
-
+![alt text](image-5.png)
