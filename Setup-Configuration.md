@@ -1,9 +1,3 @@
----
-layout: NewLayout
-title: Business Central for Asset Managers
-description: Enhanced functionality for fixed asset management in Microsoft Dynamics 365 Business Central
----
-
 # Setup and Configuration
 
 ## Fixed Assets Maintenance Setup
