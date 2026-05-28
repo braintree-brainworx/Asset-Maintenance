@@ -20,6 +20,11 @@ On installation, number series will be created for
 You can amend these if required.
 
 ## Definitions
+
+| Column | Content|
+|----------|----------|
+
+
 | **Term** | **Definition** |
 |---|---|
 |Measurements|Defines key measurements taken as part of maintenance and inspections. |
