@@ -24,18 +24,6 @@ You can amend these if required.
 | Column | Content|
 |----------|----------|
 
-
-| **Term** | **Definition** |
-|---|---|
-|Measurements|Defines key measurements taken as part of maintenance and inspections. |
-|Maintenance Actions|Defines actions that are used in maintenance activities, for example Check, Top up, Adjust|
-|Maintenance Group|Defines a group for which common maintenance activities apply, for example Passenger Vehicles, Motorcycles, Fridges|
-|Maintenance Plan Types|Defines categories of maintenance plans, for example Minor Service, Safety Certification|
-|Maintenance Plans|Defines a set of standard activities and resource requirements for the maintenance of a particular group of assets|
-|Maintenance Order|Defines specific maintenance actions|
-|Checklist||
-|Defect Register ||
-
 ## Measurements
 From FA Maintenance Setup, select 'Measurements'.
 From the Measurements list, add or edit the entries. 
@@ -74,3 +62,17 @@ From the Maintenance Groups list, add or edit the entries:
 You can associate plan types with maintenance groups. Select 'Maintenance Plan Types' from the Maintenance Groups page.
 
 ![alt text](image-5.png)
+
+
+
+
+| **Term** | **Definition** |
+|---|---|
+|Measurements|Defines key measurements taken as part of maintenance and inspections. |
+|Maintenance Actions|Defines actions that are used in maintenance activities, for example Check, Top up, Adjust|
+|Maintenance Group|Defines a group for which common maintenance activities apply, for example Passenger Vehicles, Motorcycles, Fridges|
+|Maintenance Plan Types|Defines categories of maintenance plans, for example Minor Service, Safety Certification|
+|Maintenance Plans|Defines a set of standard activities and resource requirements for the maintenance of a particular group of assets|
+|Maintenance Order|Defines specific maintenance actions|
+|Checklist||
+|Defect Register ||
