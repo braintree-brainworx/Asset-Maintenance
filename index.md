@@ -23,7 +23,10 @@ Generate maintenance instructions for fixed assets, based on maintenance plans.
 Generate purchase orders for maintenance activities.
 
 - [Setup and Configuration](Setup-Configuration.md)
-- [Maintenance](Maintenance.MD)
+- Maintenance
+  - [Maintenance Plans](MaintenancePlans.MD)
+  - [Maintenance Orders](MaintenanceOrders.MD)
 - [Transfers](Transfers.MD)
 - [Defect Register](DefectRegister.MD)
 - [Asset Utilisation](Utilisation.MD)
+- [Ledgers](Ledgers.md)
