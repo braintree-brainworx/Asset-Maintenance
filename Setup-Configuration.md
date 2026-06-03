@@ -52,9 +52,10 @@ Maintenance plan types define broad categories of maintenance, for example inspe
 From FA Maintenance Setup, select 'Maintenance Plan Types'.
 From the Maintenance Plan Types list, add or edit the entries:
 
-![alt text](/Screenshots/MaintenancPlanTypes.png)
+![alt text](/Screenshots/MaintenancePlanTypes.png)
 
 Enter a code and description, and select a maintenance category from the available list.
+Optionally, add the person responsible for managing the maintenance of assets belo
 
 ## Maintenance Groups
 Maintenance groups are used to group a set of fixed assets together, based on common properties. The group can be used to associate typical maintenance activities with specific assets.
