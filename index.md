@@ -26,7 +26,7 @@ Generate purchase orders for maintenance activities.
 - Maintenance
   - [Maintenance Plans](MaintenancePlans.MD)
   - [Maintenance Orders](MaintenanceOrders.MD)
-- [Transfers](Transfers.MD)
+- [Asset Transfers](Transfers.MD)
 - [Defect Register](DefectRegister.MD)
 - [Asset Utilisation](Utilisation.MD)
 - [Ledgers](Ledgers.md)

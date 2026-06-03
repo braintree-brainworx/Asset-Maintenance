@@ -38,7 +38,7 @@ From FA Maintenance Setup, select 'Measurements'.
 From the Measurements list, add or edit the entries. 
 
 Example:
-![alt text](ScreenShots/image-1.png)
+![alt text](/Screenshots/image-1.png)
 
 ## Maintenance Actions
 From FA Maintenance Setup, select 'Maintenance Actions'.
