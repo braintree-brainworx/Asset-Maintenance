@@ -15,7 +15,7 @@ On installation, number series will be created for
 - Checklists
 - Transfers
 
-![alt text](image.png)
+![alt text](/Screenshots/image.png)
 
 You can amend these if required.
 
@@ -47,12 +47,12 @@ From the Maintenance Actions list, add or edit the entries.
     Note: it is not necessary to predefine all actions. They can be dynamically added during creation of maintenance plans.
 
 ## Maintenance Plan Types
-Maintenance plan types define broad categories of maintenance, for example inspection, minor service, major service, safety compliance.
+Maintenance plan types define broad categories of maintenance, for example inspection, minor service, major service, safety compliance. 
 
 From FA Maintenance Setup, select 'Maintenance Plan Types'.
 From the Maintenance Plan Types list, add or edit the entries:
 
-![alt text](image-3.png)
+![alt text](/Screenshots/MaintenancPlanTypes.png)
 
 Enter a code and description, and select a maintenance category from the available list.
 
@@ -65,9 +65,9 @@ Motor vehicles can be split by size and fuel type - Passenger Petrol, Passenger 
 From FA Maintenance Setup, select 'Maintenance Groups'.
 From the Maintenance Groups list, add or edit the entries:
 
-![alt text](image-2.png)
+![alt text](/Screenshots/MaintenanceGroups.png)
 
 ### Maintenance groups - Plan types
 You can associate plan types with maintenance groups. Select 'Maintenance Plan Types' from the Maintenance Groups page.
 
-![alt text](image-5.png)
+![alt text](/Screenshots/MaintenancePlanTypes.png)
