@@ -16,7 +16,7 @@ A maintenance plan may be applied to any number of similar assets
 **Create a New Maintenance Plan**
 From the Asset Management role centre, select 'Maintenance Plans', or use the search button. The list of active maintenance plans will be displayed.
 
-![alt text](image-4.png)
+![alt text](/Screenshots/MaintenancePlanList.png)
 
 Click on New. The Maintenance Plan Card will open.
 
