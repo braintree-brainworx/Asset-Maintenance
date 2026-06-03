@@ -11,6 +11,10 @@ A maintenance plan defines the maintenance tasks, materials and resources requir
 
 The plan acts as a template to generate maintenance orders, to carry out a particular maintenance instance on the asset.  The plan is typically linked to a *maintenance group* and a *maintenance plan type*.
 
+A single asset may have multiple maintenance plans. For example, a passenger vehicle with a petrol engine will typically have a plan for minor services, and a plan for major services.
+
+A maintenance plan may be applied to any number of similar assets
+
 **Create a New Maintenance Plan**
 From the Asset Management role centre, select 'Maintenance Plans', or use the search button. The list of active maintenance plans will be displayed.
 
@@ -58,6 +62,46 @@ Example:
 ![alt text](image-8.png)
 
 ## Maintenance Orders
+Maintenance orders are work instructions to carry out a specific set of maintenance tasks on a fixed asset. Maintenance orders can be generated from a maintenance plan, or can be created as needed for unplanned maintenance. They can also be generated from a defect register entry.
+
+**Create a new order**
+Option 1: From the Braintree Asset Maintenance role centre, click on '+ Maintenance Order':
+
+![alt text](image-9.png)
+
+Option 2: Open the Maintenance Orders list, and click on New. 
+
+The Maintenance Order card will be opened.
+
+![alt text](image-10.png)
+
+Tab past the document number. The system will assign a new number from the number series.
+
+Select the maintenance item number (asset number) from list.
+
+![alt text](image-11.png)
+
+If the maintenance order is to be based on a maintenance plan.
+
+![alt text](image-12.png)
+
+The description fields, maintenance type, and maintenance location will be populated.
+
+![alt text](image-13.png)
+
+If the order is based on a maintenance plan, click on the menu option 'Create Lines'. 
+
+![alt text](image-14.png)
+
+The tasks and resources will be copied from the maintenance plan to the order:
+
+![alt text](image-15.png)
+
+![alt text](image-16.png)
+
+You can add, remove or amend any of the tasks or resources as required.
+
+When you have completed the order details, release the order.
 
 ## Purchase Orders
 
