@@ -5,3 +5,5 @@ description: Enhanced functionality for fixed asset management in Microsoft Dyna
 ---
 
 # Transfers
+Fixed Asset Transfers provides a simple process to move an asset from one physical location to another. It works similarly to inventory transfers.
+
