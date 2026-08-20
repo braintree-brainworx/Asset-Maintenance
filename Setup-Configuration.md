@@ -15,7 +15,7 @@ On installation, number series will be created for
 - Checklists
 - Transfers
 
-![alt text](/Screenshots/image.png)
+![alt text](/Screenshots/FAMaintSetup1.png)
 
 You can amend these if required.
 
@@ -37,8 +37,8 @@ Definition of terms and entities used in the app:
 From FA Maintenance Setup, select 'Measurements'.
 From the Measurements list, add or edit the entries. 
 
-Example:
-![alt text](/Screenshots/image-1.png)
+*Example:*
+![alt text](/Screenshots/Measurements.png)
 
 ## Maintenance Actions
 From FA Maintenance Setup, select 'Maintenance Actions'.
