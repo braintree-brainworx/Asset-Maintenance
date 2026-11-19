@@ -15,7 +15,7 @@ description: Enhanced functionality for fixed asset management in Microsoft Dyna
 - [Ledgers](Ledgers.md)
   
 # Asset Maintenance
-Braintree's Fixed Assets Maintenance extension provides additional facilities for managing your fixed assets. Features include:
+Braintree's Fixed Assets Maintenance extension provides additional facilities for managing your fixed assets. 
 
 **Fixed asset transfers**
 Move assets between physical locations or dimensions, using the FA transfer document, with Ship and Receive functions, and a detailed audit trail.

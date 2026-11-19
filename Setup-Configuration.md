@@ -14,8 +14,10 @@ On installation, number series will be created for
 - Maintenance orders
 - Checklists
 - Transfers
+- Rental Contracts
+- Rental Asset Numbers
 
-![alt text](/Screenshots/FAMaintSetup1.png)
+![alt text](Screenshots/FAMaintSetup.png)
 
 You can amend these if required.
 
