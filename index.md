@@ -4,6 +4,16 @@ title: Business Central for Asset Managers
 description: Enhanced functionality for fixed asset management in Microsoft Dynamics 365 Business Central
 ---
 
+- [Setup and Configuration](Setup-Configuration.md)
+- Maintenance
+  - [Maintenance Plans](MaintenancePlans.MD)
+  - [Maintenance Orders](MaintenanceOrders.MD)
+- [Asset Transfers](Transfers.MD)
+- [Defect Register](DefectRegister.MD)
+- [Asset Utilisation](Utilisation.MD)
+- [Asset Rental](Rentals\Rentals.MD)
+- [Ledgers](Ledgers.md)
+  
 # Asset Maintenance
 Braintree's Fixed Assets Maintenance extension provides additional facilities for managing your fixed assets. Features include:
 
@@ -21,12 +31,3 @@ Generate maintenance instructions for fixed assets, based on maintenance plans.
 
 **Procurement integration**
 Generate purchase orders for maintenance activities.
-
-- [Setup and Configuration](Setup-Configuration.md)
-- Maintenance
-  - [Maintenance Plans](MaintenancePlans.MD)
-  - [Maintenance Orders](MaintenanceOrders.MD)
-- [Asset Transfers](Transfers.MD)
-- [Defect Register](DefectRegister.MD)
-- [Asset Utilisation](Utilisation.MD)
-- [Ledgers](Ledgers.md)
