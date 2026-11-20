@@ -34,10 +34,10 @@ Maintenance orders can be created directly, generated from plans, or initiated f
 
 Posting a released order:
 
-1. Posts item consumption, G/L maintenance costs, and resource usage to their respective Business Central journals.
-2. Adds a maintenance registration against the fixed asset.
-3. Adds or updates the asset's usage measurement for the completion date.
-4. Marks the maintenance order Closed and records its completion date and user.
+- Posts item consumption, G/L maintenance costs, and resource usage to their respective Business Central journals.
+- Adds a maintenance registration against the fixed asset.
+- Adds or updates the asset's usage measurement for the completion date.
+- Marks the maintenance order Closed and records its completion date and user.
 
 ## Defect reporting and review
 

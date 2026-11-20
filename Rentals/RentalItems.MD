@@ -14,12 +14,12 @@ To prepare an inventory item for use as a rental asset:
 
 ![alt text](Screenshots/image.png)
 
-# Purchase inventory
+## Purchase inventory
 - Using normal Business Central procurement processes, purchase inventory for the item. 
 - Assign serial numbers to the items being purchased.
 - Receive the items into inventory.
 
-# Create Fixed Assets from inventory
+## Create Fixed Assets from inventory
 Before issuing the items for rental, they must be converted from inventory to fixed assets.
 From the Item card, click on 'Create Rental Assets'.
 
@@ -30,3 +30,6 @@ A dialogue box will be displayed:
 ![alt text](Screenshots/image-2.png)
 
 Enter the quantity of items that you want to assign to fixed assets, and click OK.
+
+New fixed assets will be created, as budgeted assets. Note that the assets are not yet acquired. 
+
