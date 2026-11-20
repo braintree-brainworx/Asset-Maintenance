@@ -25,5 +25,3 @@ Example:
 
 ![alt text](Screenshots/image-3.png)
 
-
-## Create a rental contract

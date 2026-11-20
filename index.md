@@ -11,7 +11,7 @@ description: Enhanced functionality for fixed asset management in Microsoft Dyna
 - [Asset Transfers](Transfers.MD)
 - [Defect Register](DefectRegister.MD)
 - [Asset Utilisation](Utilisation.MD)
-- [Asset Rental](Rentals/Rentals.MD)
+- [Asset Rental](/Rentals/Rentals.MD)
 - [Ledgers](Ledgers.md)
   
 # Asset Maintenance
