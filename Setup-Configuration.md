@@ -5,6 +5,14 @@ description: Enhanced functionality for fixed asset management in Microsoft Dyna
 ---
 
 # Setup and Configuration
+Before using fixed asset maintenanceFor most of these, some default setups will be automatically be done when you install the app, allowing you to get started with a minimum of time and effort. Other setups will require your specific intervention. Either way, it's a good idea to review the setups, and adjust as required to match your own preferences.
+
+- [Maintenance Setup](#setup-and-configuration)
+- [Definitions](#definitions)
+- [Measurements](#maintain-measurements)
+- [Maintenance Actions](#maintenance-actions)
+- [Maintenance Plan Types](#maintenance-plan-types)
+- [Maintenance Group](#maintenance-groups)
 
 ## Fixed Assets Maintenance Setup
 Search for 'FA Maintenance Setup', or select 'Maintenance Setup' from the Fixed Assets Setup page.
@@ -35,7 +43,7 @@ Definition of terms and entities used in the app:
 |Checklist||
 |Defect Register ||
 
-## Measurements
+## Maintain Measurements
 From FA Maintenance Setup, select 'Measurements'.
 From the Measurements list, add or edit the entries. 
 
@@ -70,7 +78,18 @@ From the Maintenance Groups list, add or edit the entries:
 
 ![alt text](/Screenshots/MaintenanceGroups.png)
 
-### Maintenance groups - Plan types
+### Associating Maintenance groups with Maintenance Plan types
 You can associate plan types with maintenance groups. Select 'Maintenance Plan Types' from the Maintenance Groups page.
 
 ![alt text](/Screenshots/MaintenancePlanTypes.png)
+
+### Associating Maintenance Groups with Fixed Assets Subclasses
+After you have created maintenance groups, you can link then to fixed asset subclasses. When a new asset is created and linked to a subclass, the maintenance group will be automatically assigned to the asset.
+
+From the FA Maintenance Setup page, select 'Asset Subclasses':
+
+![alt text](Screenshots/image.png)
+
+In the column 'Maintenance Groups', select a maintenance group:
+
+![alt text](Screenshots/image-1.png)

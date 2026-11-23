@@ -9,3 +9,5 @@ A rental contract is used to initiate and manage rentals of fixed assets. Before
 - one or more inventory items must be set up with Serial number tracking.
 - inventory of the item must exist.
 - Some of the inventory must have been converted to fixed assets.
+
+### The Rental Contract List

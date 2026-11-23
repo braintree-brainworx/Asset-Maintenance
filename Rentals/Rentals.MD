@@ -25,3 +25,8 @@ Example:
 
 ![alt text](Screenshots/image-3.png)
 
+## Converting inventory to fixed assets
+This function allows you to create fixed assets from serialised inventory. [Go to Rental Items](RentalItems.MD)
+
+## Rental Contracts
+This function manages the issuing of fixed assets to a customer, and the periodic invoicing of the assets.
