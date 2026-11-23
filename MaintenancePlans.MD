@@ -20,7 +20,7 @@ From the Asset Management role centre, select 'Maintenance Plans', or use the se
 
 Click on New. The Maintenance Plan Card will open.
 
-![alt text](image-6.png)
+![alt text](/Screenshots/image-6.png)
 
 Press Tab to move past the No. field. A plan number will be assigned.
 
@@ -42,7 +42,7 @@ The tasks captured on the plan should include all standard or recommended tasks 
 |Comments||
 
 Example:
-![alt text](image-7.png)
+![alt text](/Screenshots/image-7.png)
 
 **Capture the materials and resources required to carry out the tasks on the maintenance plan:**
 Capture the recommended consumables and spares, resources, or other expenses that will be required to action a maintenance order derived from the maintenance plan. Expenses can be added, removed or changed on the order. Actual consumption will be captured per order.
@@ -57,4 +57,4 @@ Capture the recommended consumables and spares, resources, or other expenses tha
 |UOM|Unit of measure code|
 
 Example:
-![alt text](image-8.png)
+![alt text](/Screenshots/image-8.png)
